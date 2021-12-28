@@ -144,7 +144,7 @@ if [ "$1" != "" ] && [ -f "$1" ]; then
     if [ -f glavni.c ]; then
         GLAVNI=glavni.c
     fi
-    gcc -g -m32 -o zad $GLAVNI $1 1>$OUT1 2>&1
+    gcc -g -m32 -o zad $GLAVNI $1 $2 $3 $4 1>$OUT1 2>&1
     if [ $? -ne 0 ]; then
         echoq -e "\e[01;31m\n\nGreška u kompajliranju!\e[00m\n"
         if [ $QUIET -eq 0 ]; then
