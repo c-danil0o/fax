@@ -149,7 +149,7 @@ main:
     pushl %eax
     pushl baser
     call convert_string
-    addl $8, %esp
+    addl $12, %esp
     movl %eax, string_len
 
     movl $4, %eax               #rezultat
