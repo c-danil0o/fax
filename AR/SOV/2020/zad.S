@@ -1,5 +1,7 @@
 #program sabiranja niza brojeva u inverznoj poljskoj notaciji IPN
 #autor Cvijetic Danilo SV25/2021
+#program nema provjeru za pogresan unos i odnos pluseva i operanada, kao ni gresku sa vise razmaka
+# jer se ovo ne trazi u postavci zadatka
 .section .data
 poruka1: .ascii "Unesite izraz: \0"
 poruka2: .ascii "Rezultat je: \0"
