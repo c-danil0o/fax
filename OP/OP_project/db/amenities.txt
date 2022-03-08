@@ -1,0 +1,9 @@
+1:tv
+2:wifi
+3:kuhinja
+4:parking
+5:klima
+6:ves masina
+7:wc
+8:terasa
+9:dvoriste

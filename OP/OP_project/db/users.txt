@@ -1,0 +1,16 @@
+username|firstname|lastname|role|gender|phone|email|blocked
+c_danil0o|Danilo|Cvijetic|admin|musko|065267346|danilo.cvijetic10@gmail.com|0
+danilo|Danilo|Cvijetic|host|musko|323212312312|dd@gm.com|0
+milos132|Milos|Markovic|host|musko|06111223344|milosm@hotmail.com|0
+maja_12|Maja|Kovacevic|host|zensko|06412312312|majakovacev@gmail.com|0
+steva.j|Steva|Janjic|guest|musko|0625522331|steva2233@gmail.com|0
+kaca44|Katarina|Jovanovic|guest|zensko|065232123|jovanovick@yahoo.com|0
+ivan12i|Ivan|Ivanovic|guest|musko|0644434212|iv.ivanovic@gmail.com|0
+jovana03|Jovana|Maric|guest|zensko|0619992929|maric.jovana@gmail.com|0
+milan34|Milan|Mitrovic|guest|musko|0623344112|milan34.mitrovic@gmail.com|0
+tijana99|Tijana|Mladenovic|guest|zensko|063887412|mlad.tijana22@gmail.com|0
+uros_k|Uros|Krstic|guest|musko|065254431|uros.krstic@gmail.com|0
+p.sara|Sara|Peric|guest|zensko|061422743|sara.peric@gmail.com|0
+milica89|Milica|Markovic|host|zensko|0623342332|milicamm@gmail.com|0
+tamara.l|Tamara|Lazic|guest|zensko|063443355|tamaral@gm.com|0
+danilo2|danilo|ddd|guest|musko|323232333|danilo@gmail.com|0

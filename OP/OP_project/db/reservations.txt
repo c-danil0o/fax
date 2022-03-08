@@ -1,0 +1,30 @@
+room_id|cin-cout|nights|price|guest|status|aditional_guests|reservation_id|host
+90|17.01.2022-17.01.2022|1|12.0|milan34|Zavrsena||53|danilo
+5|03.02.2022-04.02.2022|2|35.0|milan34|Zavrsena|Milos Milosevic,Marko Markovic|59|danilo
+96|02.01.2022-05.01.2022|4|237.0|kaca44|Zavrsena||12|milos132
+46|10.01.2022-15.01.2022|6|325.0|uros_k|Zavrsena||13|milos132
+81|24.01.2022-24.01.2022|1|56.0|ivan12i|Odustanak||43|maja_12
+51|28.01.2022-03.02.2022|8|1440.0|tijana99|Zavrsena|Marko Markovic, Marko Jovanovic|44|milos132
+89|10.01.2022-11.01.2022|2|160.0|tijana99|Zavrsena|Nikola N|45|milos132
+44|02.02.2022-07.02.2022|6|390.0|jovana03|Zavrsena||46|milos132
+85|07.01.2022-09.01.2022|3|240.0|jovana03|Zavrsena||47|maja_12
+85|10.01.2022-15.01.2022|6|480.0|steva.j|Zavrsena||48|maja_12
+21|10.03.2022-10.03.2022|1|45.0|p.sara|Odustanak||25|maja_12
+21|04.03.2022-05.03.2022|2|85.5|p.sara|Odustanak||61|maja_12
+9|06.02.2022-08.02.2022|3|240.0|uros_k|Zavrsena||49|maja_12
+22|10.02.2022-14.02.2022|5|450.0|uros_k|Zavrsena||50|maja_12
+84|10.01.2022-15.01.2022|6|150.0|uros_k|Zavrsena||51|danilo
+84|28.01.2022-03.02.2022|7|175.0|p.sara|Zavrsena||52|danilo
+84|10.02.2022-15.02.2022|6|150.0|p.sara|Zavrsena||54|danilo
+21|04.03.2022-04.03.2022|1|45.0|ivan12i|Kreirana|Nikola Nikolic|67|maja_12
+33|16.02.2022-19.02.2022|4|307.8|ivan12i|Kreirana||84|danilo
+79|05.03.2022-07.03.2022|3|256.5|ivan12i|Odustanak||62|danilo
+79|19.02.2022-20.02.2022|2|171.0|ivan12i|Prihvacena||55|danilo
+93|18.02.2022-18.02.2022|1|30.0|kaca44|Odbijena||33|maja_12
+93|21.02.2022-24.02.2022|4|114.0|kaca44|Kreirana|Milica M|77|maja_12
+51|28.02.2022-28.02.2022|1|171.0|kaca44|Kreirana||93|milos132
+66|09.03.2022-09.03.2022|1|85.5|kaca44|Kreirana||42|maja_12
+93|27.02.2022-28.02.2022|2|60.0|steva.j|Kreirana|Tina Tina|92|maja_12
+93|03.03.2022-04.03.2022|2|57.0|steva.j|Kreirana||95|maja_12
+9|13.02.2022-16.02.2022|4|328.0|steva.j|Prihvacena|Milos M,Ivan N|72|maja_12
+9|05.03.2022-05.03.2022|1|76.0|steva.j|Kreirana||64|maja_12

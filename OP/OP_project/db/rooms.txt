@@ -1,0 +1,23 @@
+room_id|numberofrooms|numberofguests|adress|availability|host|price|status|amenities
+24|stan|2|10|Sime Milosevica#12#Novi Sad#21000|02.02.2022-05.02.2022:10.02.2022-25.02.2022:01.03.2022-08.03.2022|danilo|54.0|aktivan|tv:kuhinja:parking:klima
+56|soba|1|2|Patrijarha Pavla#20#Banja Luka#18000|03.01.2022-09.01.2022:11.01.2022-15.01.2022|danilo|90.0|aktivan|wifi:kuhinja:klima
+90|apartman|3|7|Milosa Obilica#4#Nevesinje#88280|15.01.2022-16.01.2022:06.09.2022-10.09.2022|danilo|12.0|aktivan|klima:ves masina:parking
+5|soba|1|3|Blagoja Parovica#44#Nevesinje#88280|23.01.2022-23.01.2022:29.01.2022-29.01.2022:05.02.2022-05.02.2022|danilo|35.0|obrisan|tv:wifi:kuhinja:parking
+96|apartman|3|5|Balkanska#46#Beograd#11000|10.02.2022-15.02.2022:20.02.2022-24.02.2022:04.03.2022-07.03.2022:09.03.2022-15.03.2022|milos132|79.0|aktivan|tv:wifi:parking:klima:wc
+46|soba|1|3|Strahinjica Bana#43a#Beograd#11000|15.02.2022-24.02.2022:26.02.2022-28.02.2022|milos132|65.0|aktivan|parking:kuhinja:ves masina:wc:tv
+52|apartman|2|4|Urosa Martinovica#25#Beograd#11070|04.02.2022-05.02.2022:09.02.2022-15.02.2022:02.03.2022-09.03.2022|milos132|120.0|aktivan|tv:wifi:kuhinja:parking:klima:ves masina:wc
+21|apartman|3|4|Vidovdanska#6#Krusevac#37000|03.03.2022-03.03.2022:05.03.2022-14.03.2022|maja_12|45.0|aktivan|wifi:tv:kuhinja:parking:klima
+81|soba|1|2|Takovska#13#Krusevac#37000|24.01.2022-24.01.2022:13.03.2022-15.03.2022:19.03.2022-23.03.2022|maja_12|56.0|aktivan|tv:wifi:kuhinja:parking:klima:ves masina
+25|apartman|5|8|Branimira Dronjika#4#Krusevac#37000|25.02.2022-01.03.2022:04.03.2022-05.03.2022:07.03.2022-15.03.2022|maja_12|150.0|aktivan|tv:wifi:kuhinja:klima:ves masina:wc:terasa
+66|apartman|4|4|Milosa Obilica#54#Zrenjanin#350902|05.03.2022-08.03.2022:10.03.2022-10.03.2022|maja_12|90.0|aktivan|tv:wifi:wc:terasa
+84|soba|1|2|Bulevar Oslobodjenja#33#Novi Sad#21000|05.03.2022-14.03.2022:16.03.2022-19.03.2022:21.03.2022-22.03.2022|danilo|25.0|aktivan|tv:wifi:kuhinja:parking:ves masina:wc
+51|apartman|6|10|Brace Radic#6#Subotica#24000|25.02.2022-27.02.2022:01.03.2022-01.03.2022:10.03.2022-16.03.2022:10.04.2022-10.05.2022|milos132|180.0|aktivan|tv:parking:klima:ves masina:wifi:dvoriste
+89|soba|1|4|Matije Korvina#16#Subotica#24000|28.02.2022-04.03.2022:08.03.2022-09.03.2022:25.03.2022-04.04.2022|milos132|80.0|aktivan|tv:wifi:parking:klima:ves masina
+44|apartman|3|4|Milice Milojkovic#16#Kragujevac#34000|10.03.2022-20.03.2022:24.03.2022-31.03.2022:04.04.2022-08.04.2022|milos132|65.0|aktivan|wifi:kuhinja:parking:klima:ves masina:dvoriste
+85|apartman|2|5|Stojana Protica#47#Kragujevac#34000|19.02.2022-25.02.2022:01.03.2022-19.03.2022:21.03.2022-29.03.2022|maja_12|80.0|aktivan|tv:kuhinja:parking:wc:terasa:dvoriste
+93|soba|1|1|Milovana Glisica#87#Kragujevac#34000|19.02.2022-20.02.2022:25.02.2022-26.02.2022:01.03.2022-02.03.2022:05.03.2022-15.03.2022:18.03.2022-30.03.2022|maja_12|30.0|aktivan|tv:parking:klima:terasa
+22|apartman|2|6|Cara Lazara#19#Banja Luka#78000|16.02.2022-30.03.2022|maja_12|90.0|aktivan|wifi:parking:ves masina:terasa:dvoriste
+9|apartman|2|2|Vuka Karadzica#55#Banja Luka#78000|10.02.2022-12.02.2022:17.02.2022-04.03.2022:06.03.2022-30.03.2022|maja_12|80.0|aktivan|tv:wifi:parking:klima:ves masina:wc
+33|soba|1|2|Gavrila Principa#88#Sarajevo#71000|15.02.2022-15.02.2022:20.02.2022-30.03.2022|danilo|80.0|aktivan|wifi:klima:wc
+79|apartman|4|6|Kulina Bana#12#Sarajevo#71000|17.02.2022-18.02.2022:21.02.2022-30.03.2022|danilo|90.0|aktivan|tv:kuhinja:parking:klima:ves masina
+19|soba|2|2|Vuka Kaaradzica#3#Novi sad#21000|03.04.2022-10.04.2022|danilo|45.0|aktivan|tv:kuhinja:parking:parking:wifi
